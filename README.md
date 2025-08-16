@@ -1,1 +1,0 @@
-# sudoku-scansolver.privacy-policy
